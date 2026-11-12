@@ -1,0 +1,20 @@
+Black – Code Formatter
+
+Automatically formats Python code according to a consistent coding style.
+
+
+Pytest-Cov – Test Coverage
+Coverage analysis
+
+Measures how much of your application code is executed by automated tests.
+
+Pytest – Testing Framework
+Automated testing
+
+Automatically executes test cases to check whether application functions work correctly.
+
+Bandit – Security Scanner
+Security analysis
+
+Scans Python source code for potentially dangerous coding practices
+
